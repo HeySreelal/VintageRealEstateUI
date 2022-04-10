@@ -7,7 +7,7 @@ Real Estate UI Design By [@uk_designer7970](https://www.instagram.com/uk_designe
 ## 🦄 Design 
 Here's the original design:
 
-![Original Design](/assets/git/Design.jpg)
+[![Original Design](/assets/git/Design.jpg)](https://www.instagram.com/p/CcKGz8dJoXd/)
 
 
 I'm pretty sure that this one is clean, and nice looking UI. Kudos to UK Designer once again. 🎉
