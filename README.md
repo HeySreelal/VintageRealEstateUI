@@ -1,16 +1,37 @@
-# realestateui
+# Real Estate App UI
+![](https://img.shields.io/badge/FlutterEveryday-Day%203-blue.svg)
 
-Real Estate UI Design By uk designer
+Real Estate UI Design By [@uk_designer7970](https://www.instagram.com/uk_designer7970/).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 🦄 Design 
+Here's the original design:
 
-A few resources to get you started if this is your first Flutter project:
+![Original Design](/assets/git/Design.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I'm pretty sure that this one is clean, and nice looking UI. Kudos to UK Designer once again. 🎉
+
+## 🦄 Results
+
+The project contains two screens given in the `screens/` directory, one for the home screen and the other for Getting Started page.
+
+I'm aware of the change in font, but I think it's okay.
+
+![](/assets/git/Result.jpg)
+
+I'm so happy to keep this going! 🦄
+
+## 💬 Note
+The release build for Android (apk) is available on the Release tab.
+<br>
+
+
+## 🌚 Contact 
+
+You can connect me on [Telegram](https://t.me/heysreelal) all the time or on [Twitter](https://twitter.com/HeySreelal) or [Instagram](https://instagram.com/heysreelal).
+
+I always prefer Telegram over Instagram or Twitter. I'm always open to new ideas and suggestions. 🦄
+
+# Thank You ❤️
+Show your support by sharing or starring the repo. ⭐️
